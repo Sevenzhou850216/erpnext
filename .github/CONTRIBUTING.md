@@ -65,3 +65,4 @@ If you rebased your commits, you will have to [force push](http://vignette2.wiki
 
 * remote - A remote is a connection to a Github repo. You should have two remotes, one that points to your repo and one to ours. 
 * rebase - When you rebase a branch, you pull commits from your remote branch and move your commits on top of it. This allows you to update your branch with the latest changes without losing  your changes.
+****This is notices****
